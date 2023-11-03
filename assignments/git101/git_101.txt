@@ -1,0 +1,18 @@
+Adding some git basic command
+
+git init    :
+git add     :
+git commit  :
+
+git push    :
+
+git branch  :
+git checkout :
+git checkout -b :
+
+git log :
+
+git reset --hard Head~1 :
+git reset --soft Head~1 :
+
+git merge: 
