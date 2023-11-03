@@ -1,0 +1,1 @@
+Git branching allows code collaborator to create separate versions of the main/master repository

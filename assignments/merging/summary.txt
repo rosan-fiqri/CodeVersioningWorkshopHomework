@@ -1,0 +1,1 @@
+Merging code allows integrating multiple changes into specific branch
