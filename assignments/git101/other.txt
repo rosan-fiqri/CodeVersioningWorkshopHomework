@@ -1,0 +1,4 @@
+Commit Signed-In:
+"commit signed in" means putting your digital signature on your code changes. 
+It's like signing your name at the bottom of a document to show that you're the one who made the changes. 
+This signature helps others know that the code is safe and hasn't been messed with by anyone else
